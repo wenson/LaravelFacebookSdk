@@ -1,25 +1,25 @@
 {
-    "name": "sammyk/laravel-facebook-sdk",
+    "name": "w3ns0n/laravel-facebook-sdk",
     "description": "Fully unit tested Facebook SDK v5 integration for Laravel & Lumen 5.x",
     "keywords": ["facebook", "laravel", "lumen", "sdk", "facebook sdk v4", "facebook sdk v5"],
     "homepage": "https://github.com/SammyK/LaravelFacebookSdk",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sammy Kaye Powers",
-            "email": "me@sammyk.me",
-            "homepage": "http://sammyk.me",
+            "name": "w3ns0n",
+            "email": "w3ns0n@gmail.com",
+    
             "role": "Developer"
         }
     ],
     "require": {
-        "php": ">=5.5.0",
-        "illuminate/auth": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0",
-        "illuminate/config": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0",
-        "illuminate/database": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0",
-        "illuminate/routing": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0",
-        "illuminate/session": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0",
-        "illuminate/support": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0",
+        "php": ">=7.4.0",
+        "illuminate/auth": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0|^8.0",
+        "illuminate/config": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0|^8.0",
+        "illuminate/database": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0|^8.0",
+        "illuminate/routing": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0|^8.0",
+        "illuminate/session": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0|^8.0",
+        "illuminate/support": "~5.0|~5.1|~5.2|~5.3|^6.0|^7.0|^8.0",
         "facebook/graph-sdk": "^5.0"
     },
     "require-dev": {
