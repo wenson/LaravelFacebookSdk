@@ -39,7 +39,7 @@ But if you need any of the following features, you'll want to tie in the Faceboo
     - [The `signed_request` param `POST`'ed to an app canvas](https://developers.facebook.com/docs/php/howto/example_access_token_from_canvas)
     - [The `signed_request` param `POST`'ed to a Facebook page tab](https://developers.facebook.com/docs/php/howto/example_access_token_from_page_tab)
 - [Photo](https://developers.facebook.com/docs/php/howto/example_upload_photo) or [video uploads](https://developers.facebook.com/docs/php/howto/example_upload_video)
-- [Batch requests](https://developers.facebook.com/docs/php/howto/example_batch_request)
+- [Batch requests](https://developers.facebook.com/docs/graph-api/batch-requests)
 - [Easy pagination](https://developers.facebook.com/docs/php/howto/example_pagination_basic)
 - [Getting Graph data returned as collections](https://developers.facebook.com/docs/php/GraphNode/5.0.0)
 
