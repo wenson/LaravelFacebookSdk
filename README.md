@@ -6,17 +6,8 @@
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/SammyK/LaravelFacebookSdk/blob/master/LICENSE)
 
 
-A fully unit-tested package for easily integrating the [Facebook SDK v5](https://developers.facebook.com/docs/php/gettingstarted/5.0.0) into Laravel and Lumen 5.0, 5.1, 5.2, & 5.3.
+A fully unit-tested package for easily integrating the [Facebook SDK v5](https://developers.facebook.com/docs/php/gettingstarted/5.0.0) into Laravel and Lumen 8
 
-----
-
-**This is package for Laravel and Lumen 5.0, 5.1, 5.2, & 5.3**
-
-[![Laravel 5](http://sammyk.s3.amazonaws.com/open-source/laravel-facebook-sdk/laravel-5.png)](http://laravel.com/docs)
-
-[![Lumen 5](http://sammyk.s3.amazonaws.com/open-source/laravel-facebook-sdk/lumen-5.png)](https://lumen.laravel.com/docs)
-
-- _For Laravel 4.2, [see the 1.3 branch](https://github.com/SammyK/LaravelFacebookSdk/tree/1.3)._
 
 ----
 
@@ -48,7 +39,7 @@ But if you need any of the following features, you'll want to tie in the Faceboo
     - [The `signed_request` param `POST`'ed to an app canvas](https://developers.facebook.com/docs/php/howto/example_access_token_from_canvas)
     - [The `signed_request` param `POST`'ed to a Facebook page tab](https://developers.facebook.com/docs/php/howto/example_access_token_from_page_tab)
 - [Photo](https://developers.facebook.com/docs/php/howto/example_upload_photo) or [video uploads](https://developers.facebook.com/docs/php/howto/example_upload_video)
-- [Batch requests](https://developers.facebook.com/docs/php/howto/example_batch_request)
+- [Batch requests](https://developers.facebook.com/docs/graph-api/batch-requests)
 - [Easy pagination](https://developers.facebook.com/docs/php/howto/example_pagination_basic)
 - [Getting Graph data returned as collections](https://developers.facebook.com/docs/php/GraphNode/5.0.0)
 
